@@ -1,4 +1,4 @@
-package dev.vbonnet.flutterwebbrowser;
+package com.kustasoft.kustasoft_web_browser;
 
 import android.app.Activity;
 import android.graphics.Color;
