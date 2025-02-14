@@ -38,6 +38,7 @@ android {
     dependencies {
         testImplementation("junit:junit:4.13.2")
         testImplementation("org.mockito:mockito-core:5.0.0")
+        implementation 'androidx.browser:browser:1.4.0' // Add this line
     }
 
     testOptions {
