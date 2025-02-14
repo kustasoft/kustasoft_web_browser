@@ -8,6 +8,8 @@ import io.flutter.embedding.engine.plugins.activity.ActivityAware;
 import io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding;
 import io.flutter.plugin.common.BinaryMessenger;
 import io.flutter.plugin.common.MethodChannel;
+// Import the MethodCallHandlerImpl class
+import com.kustasoft.kustasoft_web_browser.MethodCallHandlerImpl;
 
 /** KustasoftWebBrowserPlugin */
 public class KustasoftWebBrowserPlugin implements FlutterPlugin, ActivityAware {
