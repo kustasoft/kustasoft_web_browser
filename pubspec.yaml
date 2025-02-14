@@ -1,7 +1,7 @@
 name: kustasoft_web_browser
 #60 ile 180 arasında karakter açıklama yaz flutter web browser eklentisi
 description: "A new Flutter plugin for opening web browser in Android and iOS. This plugin is based on the Flutter plugin template."
-version: 0.0.3
+version: 1.0.0
 homepage: https://github.com/kustasoft/kustasoft_web_browser
 repository: https://github.com/kustasoft/kustasoft_web_browser/tree/master
 issue_tracker: https://github.com/kustasoft/kustasoft_web_browser/issues
